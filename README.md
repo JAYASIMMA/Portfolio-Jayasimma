@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Support
 
 For support and questions:
-- Email: jayasimma.d@gmail.com
+- Email: jayasimmamomdad@gmail.com
 - GitHub Issues: [Create an issue](https://github.com/jayasimma/professional-portfolio/issues)
 
 ## 🙏 Acknowledgments
